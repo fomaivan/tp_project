@@ -1,0 +1,17 @@
+# ninja log v5
+2	580	1649526820595599857	CMakeFiles/project.dir/main.cpp.o	1672ebde12ca8a46
+580	626	1649526820643460115	project	8d719d09da2d4a93
+3	590	1649346252357458201	CMakeFiles/project.dir/sound.cpp.o	6bdea57a27378c71
+2	562	1649526820578304930	CMakeFiles/project.dir/field.cpp.o	d0d8693af387a305
+2	561	1649526820576447712	CMakeFiles/project.dir/snake.cpp.o	5d4588891367998d
+0	173	1649526918129571851	build.ninja	3de00b45cb64d12c
+3	550	1649526820562174385	CMakeFiles/project.dir/fruit.cpp.o	a19652500869be73
+3	69	1649344150844070515	CMakeFiles/project.dir/game.cpp.o	c8222c1932849ba8
+3	571	1649526820586431933	CMakeFiles/project.dir/score.cpp.o	393005832d39ec81
+0	176	1649526918129571851	build.ninja	3de00b45cb64d12c
+1	566	1649526918699982511	CMakeFiles/project.dir/src/fruit.cpp.o	901a29eac0f8a91f
+1	571	1649526918705350707	CMakeFiles/project.dir/src/field.cpp.o	d616065f1500dbe
+2	571	1649526918705601542	CMakeFiles/project.dir/src/score.cpp.o	19c52278bf707a55
+1	579	1649526918714285088	CMakeFiles/project.dir/src/snake.cpp.o	5b954b44cc5334bb
+1	589	1649526918724617186	CMakeFiles/project.dir/main.cpp.o	1672ebde12ca8a46
+589	637	1649526918774983041	project	2ebc9a11b50ff7a9
